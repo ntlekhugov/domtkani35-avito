@@ -1,0 +1,8 @@
+data/
+scripts/
+screenshots/
+*.html
+styles.css
+.DS_Store
+__pycache__/
+*.pyc
