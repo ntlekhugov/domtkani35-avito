@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
-<!-- Generated: 2026-02-10 16:16 -->
+<!-- Generated: 2026-02-10 16:25 -->
 <!-- Products: 129 -->
 
   <Ad>
@@ -11,13 +11,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Вологодский лен</Title>
     <Description>Ткань "Вологодский лен"
 
@@ -47,13 +47,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -84,13 +84,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -121,13 +121,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен однотонный, ш.1,45 м</Title>
     <Description>Ткань "Лен однотонный"
 
@@ -158,13 +158,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -195,13 +195,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -232,13 +232,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -269,13 +269,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен однотонный, ш.1,45 м</Title>
     <Description>Ткань "Лен однотонный"
 
@@ -306,13 +306,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен однотонный, ш.1,45 м</Title>
     <Description>Ткань "Лен однотонный"
 
@@ -343,13 +343,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -380,13 +380,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -417,13 +417,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -454,13 +454,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен однотонный, ш.1,45 м</Title>
     <Description>Ткань "Лен однотонный"
 
@@ -491,13 +491,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен однотонный, ш.1,45 м</Title>
     <Description>Ткань "Лен однотонный"
 
@@ -528,13 +528,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен однотонный, ш.1,45 м</Title>
     <Description>Ткань "Лен однотонный"
 
@@ -565,13 +565,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен однотонный, ш.1,45 м</Title>
     <Description>Ткань "Лен однотонный"
 
@@ -602,13 +602,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен однотонный, ш.1,45 м</Title>
     <Description>Ткань "Лен однотонный"
 
@@ -639,13 +639,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен однотонный, ш.1,45 м</Title>
     <Description>Ткань "Лен однотонный"
 
@@ -676,13 +676,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен однотонный, ш.1,45 м</Title>
     <Description>Ткань "Лен однотонный"
 
@@ -713,13 +713,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -750,13 +750,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -787,13 +787,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -824,13 +824,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -861,13 +861,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -898,13 +898,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -935,13 +935,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -972,13 +972,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1009,13 +1009,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен с пропиткой, ш.1,45 м</Title>
     <Description>Ткань "Лен с пропиткой"
 
@@ -1046,13 +1046,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1083,13 +1083,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1120,13 +1120,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1157,13 +1157,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1194,13 +1194,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1231,13 +1231,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1268,13 +1268,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1305,13 +1305,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1342,13 +1342,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1379,13 +1379,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1416,13 +1416,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1453,13 +1453,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1490,13 +1490,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1527,13 +1527,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1564,13 +1564,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1601,13 +1601,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1638,13 +1638,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1675,13 +1675,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1712,13 +1712,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1749,13 +1749,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1786,13 +1786,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1823,13 +1823,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1860,13 +1860,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1897,13 +1897,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1934,13 +1934,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -1971,13 +1971,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2008,13 +2008,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2045,13 +2045,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2082,13 +2082,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2119,13 +2119,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2156,13 +2156,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2193,13 +2193,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2230,13 +2230,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2267,13 +2267,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2304,13 +2304,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2341,13 +2341,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2378,13 +2378,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2415,13 +2415,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2452,13 +2452,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2489,13 +2489,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2526,13 +2526,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2563,13 +2563,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2600,13 +2600,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2637,13 +2637,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2674,13 +2674,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2711,13 +2711,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.1,45 м</Title>
     <Description>Ткань "Лен"
 
@@ -2748,13 +2748,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Льняное полотно, ш.1,50 м</Title>
     <Description>Ткань "Льняное полотно"
 
@@ -2785,12 +2785,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -2821,12 +2821,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -2857,12 +2857,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -2893,12 +2893,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -2929,12 +2929,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -2965,12 +2965,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3001,12 +3001,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3037,12 +3037,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3073,12 +3073,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3109,12 +3109,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3145,12 +3145,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3181,12 +3181,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3217,12 +3217,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3253,12 +3253,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3289,12 +3289,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3325,12 +3325,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3361,12 +3361,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3397,12 +3397,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3433,12 +3433,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3469,12 +3469,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3505,12 +3505,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Мебель</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Мебель</Option>
+    </Purpose>
     <Title>Мебельные ткани, ш.1.40</Title>
     <Description>Ткань "Мебельные ткани"
 
@@ -3541,13 +3541,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Вологодский лен, ш.1.50</Title>
     <Description>Ткань "Вологодский лен"
 
@@ -3578,12 +3578,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+    </Purpose>
     <Title>Хлопок рубашечно-плательный букашки на  бирюзовом, хлопок 100%, ш.1,50 м</Title>
     <Description>Ткань "Хлопок рубашечно-плательный букашки на  бирюзовом"
 
@@ -3615,12 +3615,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+    </Purpose>
     <Title>Хлопок рубашечно-плательный мишки на красном, хлопок 100%, ш.1,50 м</Title>
     <Description>Ткань "Хлопок рубашечно-плательный мишки на красном"
 
@@ -3652,12 +3652,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+    </Purpose>
     <Title>Хлопок рубашечно-плательный цветочный принт, хлопок 100%, ш.1,50 м</Title>
     <Description>Ткань "Хлопок рубашечно-плательный цветочный принт"
 
@@ -3689,12 +3689,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+    </Purpose>
     <Title>Хлопок рубашечно-плательный цветочный принт, хлопок 100%, ш.1,50 м</Title>
     <Description>Ткань "Хлопок рубашечно-плательный цветочный принт"
 
@@ -3726,12 +3726,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+    </Purpose>
     <Title>Вискоза плательно-блузочная, вискоза 100%, ш.1,40м</Title>
     <Description>Ткань "Вискоза плательно-блузочная"
 
@@ -3763,13 +3763,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, ш.2,60 м</Title>
     <Description>Ткань "Лен"
 
@@ -3800,13 +3800,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Жаккард</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Жаккард льняной, лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Жаккард льняной"
 
@@ -3838,13 +3838,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Жаккард</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Жаккард льняной, лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Жаккард льняной"
 
@@ -3876,13 +3876,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Жаккард</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Жаккард льняной, лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Жаккард льняной"
 
@@ -3914,13 +3914,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Жаккард</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Жаккард льняной, лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Жаккард льняной"
 
@@ -3952,13 +3952,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Жаккард</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Жаккард льняной, лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Жаккард льняной"
 
@@ -3990,13 +3990,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Жаккард</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Жаккард льняной, лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Жаккард льняной"
 
@@ -4028,13 +4028,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Жаккард</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Жаккард льняной, лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Жаккард льняной"
 
@@ -4066,13 +4066,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Жаккард</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Жаккард льняной, лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Жаккард льняной"
 
@@ -4104,13 +4104,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Жаккард</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Жаккард льняной, лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Жаккард льняной"
 
@@ -4142,13 +4142,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лён, лен 59%, хлопок 41%, ш.1,45 м</Title>
     <Description>Ткань "Лён"
 
@@ -4180,13 +4180,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лён, лен 50%, хлопок 50%, ш.1,50 м</Title>
     <Description>Ткань "Лён"
 
@@ -4218,13 +4218,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лён, лен 50%, хлопок 50%, ш.1,50 м</Title>
     <Description>Ткань "Лён"
 
@@ -4256,13 +4256,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лён, лен 50%, хлопок 50%, ш.1,50 м</Title>
     <Description>Ткань "Лён"
 
@@ -4294,13 +4294,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лён, лен 50%, хлопок 50%, ш.1,50 м</Title>
     <Description>Ткань "Лён"
 
@@ -4332,12 +4332,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+    </Purpose>
     <Title>Лен костюмный, лен 100%, ш.1,40м</Title>
     <Description>Ткань "Лен костюмный"
 
@@ -4369,12 +4369,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+    </Purpose>
     <Title>Лен Костюмный, лен 100%, ш.1,40м</Title>
     <Description>Ткань "Лен Костюмный"
 
@@ -4406,12 +4406,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Ткань для живописи, лен 100%, ш.1,75 см</Title>
     <Description>Ткань "Ткань для живописи"
 
@@ -4443,13 +4443,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен, лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Лен"
 
@@ -4481,13 +4481,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен в ассортименте  (цвет синий), лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Лен в ассортименте  (цвет синий)"
 
@@ -4519,13 +4519,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен в ассортименте  (цвет красный), лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Лен в ассортименте  (цвет красный)"
 
@@ -4557,13 +4557,13 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-      <Purpose>Рукоделие</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+      <Option>Рукоделие</Option>
+    </Purpose>
     <Title>Лен в ассортименте  (цвет белый), лен 100%, ш.1,50 м</Title>
     <Description>Ткань "Лен в ассортименте  (цвет белый)"
 
@@ -4595,12 +4595,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+    </Purpose>
     <Title>Плательно-рубашечная, лен 48%, хлопок 52%, ш.1,50 м</Title>
     <Description>Ткань "Плательно-рубашечная"
 
@@ -4632,12 +4632,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+    </Purpose>
     <Title>Плательно-рубашечная, лен 50%, хлопок 50%, ш.1,45 м</Title>
     <Description>Ткань "Плательно-рубашечная"
 
@@ -4669,12 +4669,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+    </Purpose>
     <Title>Плательно-рубашечная, лен 50%, хлопок 50%, ш.1,60м</Title>
     <Description>Ткань "Плательно-рубашечная"
 
@@ -4706,12 +4706,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+    </Purpose>
     <Title>Плательно-рубашечная, лен 100%, ш.1,45 м</Title>
     <Description>Ткань "Плательно-рубашечная"
 
@@ -4743,12 +4743,12 @@
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
-    <FabricItemType>Ткань на отрез</FabricItemType>
-    <Material>Лён</Material>
+    <SubType>Ткань на отрез</SubType>
+    <MainCompositionComponent>Лён</MainCompositionComponent>
     <TextileType>Лён</TextileType>
-    <PurposeValues>
-      <Purpose>Пошив одежды</Purpose>
-    </PurposeValues>
+    <Purpose>
+      <Option>Пошив одежды</Option>
+    </Purpose>
     <Title>Плательно-рубашечная, лен 50%, хлопок 50%, ш.1,50 м</Title>
     <Description>Ткань "Плательно-рубашечная"
 
