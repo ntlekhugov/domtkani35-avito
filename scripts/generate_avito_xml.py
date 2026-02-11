@@ -3,15 +3,14 @@
 Generate Avito Autoload XML feed from parsed domtkani35.ru products.
 Reads products.json → generates avito_feed.xml
 
-Supports three product types with different Avito categories:
-  - Ткани → Мебель и интерьер / Текстиль и ковры / Ткани
-  - Фурнитура → Хобби и отдых / Рукоделие
-  - Пряжа → Хобби и отдых / Рукоделие
+Only fabric products are supported — Avito XML autoload requires:
+  Category: Мебель и интерьер → Текстиль и ковры → Ткани
+
+Accessories/yarn are excluded (no valid Avito XML autoload category).
 
 Usage:
-  python3 generate_avito_xml.py                    # all products
+  python3 generate_avito_xml.py                    # all fabrics
   python3 generate_avito_xml.py --filter linen     # linen only
-  python3 generate_avito_xml.py --filter fabrics   # fabrics only (no accessories)
   python3 generate_avito_xml.py --phone 88172724197 --address "Вологда, Торговая площадь, 11А"
 """
 
@@ -44,6 +43,7 @@ ACCESSORY_KEYWORDS = [
     'кант декоративн', 'вьюнчик', 'рюш', 'сутаж',
     'плечевые накладк', 'товары для кроя', 'товары для бисер',
     'клеевые материал', 'клеевые написал',
+    'коробк', 'штурнная лента', 'shtornaya lenta',
 ]
 
 # Keywords that specifically indicate yarn (subset of accessories)
@@ -96,11 +96,21 @@ PURPOSE_MAP = {
     'подкладк': 'Подкладка',
     'живопис': 'Рукоделие',
     'лоскут': 'Пэчворк',
-    'столов': 'Рукоделие',
+    'столов': 'Домашний текстиль',
+    'полотенц': 'Домашний текстиль',
+    'автомобил': 'Автомобиль',
+    'авточехл': 'Автомобиль',
 }
 
 # Mapping title/composition keywords → Avito "Тип ткани" (TextileType)
+# Valid Avito values: Атлас, Бархат, Блэкаут, Бязь, Вельвет, Велюр,
+# Габардин, Гобелен, Дак, Деним, Жаккард, Креп, Кримплен, Кулирка,
+# Лён, Махра, Микрофибра, Муслин, Неопрен, Нетканый материал,
+# Оксфорд, Перкаль, Плащёвка, Полисатин, Поплин, Ранфорс, Рогожка,
+# Сатин, Сатин-жаккард, Сетка, Ситец, Страйп-сатин, Твил,
+# Трикотаж, Фланель, Флис, Штапель, Экокожа
 TEXTILE_TYPE_MAP = {
+    # Direct matches (value exists in Avito's list)
     'жаккард': 'Жаккард',
     'сатин': 'Сатин',
     'сатен': 'Сатин',
@@ -134,18 +144,35 @@ TEXTILE_TYPE_MAP = {
     'оксфорд': 'Оксфорд',
     'ситец': 'Ситец',
     'бархат': 'Бархат',
-    'тюль': 'Тюль',
-    'вуаль': 'Вуаль',
-    'органз': 'Органза',
-    'тафт': 'Тафта',
-    'шифон': 'Шифон',
-    'батист': 'Батист',
-    'канвас': 'Канвас',
-    'софт': 'Софт',
-    'шенилл': 'Шенилл',
     'лён': 'Лён',
     'льн': 'Лён',
     'лен': 'Лён',
+    'ранфорс': 'Ранфорс',
+    'полисатин': 'Полисатин',
+    'неопрен': 'Неопрен',
+    'кримплен': 'Кримплен',
+    'дак': 'Дак',
+    # Mapped to closest valid Avito value
+    'тюль': 'Сетка',
+    'вуаль': 'Сетка',
+    'органз': 'Сетка',
+    'тафт': 'Атлас',
+    'шифон': 'Сетка',
+    'батист': 'Поплин',
+    'канвас': 'Габардин',
+    'софт': 'Велюр',
+    'шенилл': 'Велюр',
+    # Additional keywords for products that had no match
+    'камуфляж': 'Плащёвка',
+    'плащев': 'Плащёвка',
+    'сорочеч': 'Поплин',
+    'рубашеч': 'Поплин',
+    'костюмн': 'Габардин',
+    'журавинк': 'Жаккард',
+    'портерн': 'Жаккард',
+    'портьер': 'Жаккард',
+    'тентов': 'Оксфорд',
+    'палаточ': 'Оксфорд',
 }
 
 # Product filters — keywords and exclusions
@@ -242,7 +269,9 @@ def detect_purpose(product):
 
 
 def detect_textile_type(product):
-    """Detect Avito TextileType from product title/composition"""
+    """Detect Avito TextileType from product title/composition.
+    Falls back to material-based guess when no keyword matches.
+    """
     title = product.get('title', '').lower()
     comp = product.get('composition', '').lower()
     text = f'{title} {comp}'
@@ -250,7 +279,20 @@ def detect_textile_type(product):
     for keyword, textile_type in TEXTILE_TYPE_MAP.items():
         if keyword in text:
             return textile_type
-    return 'Другое'
+
+    # Material-based fallback (all values are valid Avito TextileType)
+    if 'хлопок' in text or 'х/б' in text or 'хлоп' in text:
+        return 'Поплин'
+    if 'полиэстер' in text or 'полиэфир' in text:
+        return 'Атлас'
+    if 'вискоза' in text:
+        return 'Креп'
+    if 'шерсть' in text:
+        return 'Габардин'
+    if 'шёлк' in text or 'шелк' in text:
+        return 'Атлас'
+
+    return 'Поплин'
 
 
 def escape_xml(text):
@@ -260,16 +302,12 @@ def escape_xml(text):
     return html.escape(str(text), quote=False)
 
 
-def build_title(product, product_type='fabric'):
-    """Build Avito title (max 50 chars per Avito docs)"""
+def build_title(product):
+    """Build Avito title (max 100 chars per Avito docs)"""
     title = product.get('title', '')
     composition = product.get('composition', '')
     width = product.get('width', '')
 
-    if product_type != 'fabric':
-        return title[:50]
-
-    # For fabrics, try to fit composition and width
     if composition and width:
         full = f'{title}, {composition}, ш.{width}'
     elif composition:
@@ -279,15 +317,15 @@ def build_title(product, product_type='fabric'):
     else:
         full = title
 
-    if len(full) <= 50:
+    if len(full) <= 100:
         return full
 
     if composition:
-        short = f'{title}, {composition[:30]}'
-        if len(short) <= 50:
+        short = f'{title}, {composition}'
+        if len(short) <= 100:
             return short
 
-    return title[:50]
+    return title[:100]
 
 
 def build_description(product, product_type='fabric'):
@@ -337,7 +375,7 @@ def generate_ad_fabric(p, phone, address, manager_name):
     """Generate <Ad> XML for a fabric product"""
     lines = []
     ad_id = f'domtkani-{p.get("slug", "")}'
-    title = build_title(p, 'fabric')
+    title = build_title(p)
     description = build_description(p, 'fabric')
     price = p.get('price', 0)
     images = p.get('images', [])
@@ -382,43 +420,8 @@ def generate_ad_fabric(p, phone, address, manager_name):
     return lines
 
 
-def generate_ad_accessory(p, phone, address, manager_name):
-    """Generate <Ad> XML for accessory/yarn product (Хобби и отдых → Рукоделие)"""
-    lines = []
-    product_type = classify_product(p)
-    ad_id = f'domtkani-{p.get("slug", "")}'
-    title = build_title(p, product_type)
-    description = build_description(p, product_type)
-    price = p.get('price', 0)
-    images = p.get('images', [])
-
-    lines.append('  <Ad>')
-    lines.append(f'    <Id>{escape_xml(ad_id)}</Id>')
-    lines.append(f'    <Category>Хобби и отдых</Category>')
-    lines.append(f'    <GoodsType>Рукоделие</GoodsType>')
-    lines.append(f'    <AdType>{DEFAULT_AD_TYPE}</AdType>')
-    lines.append(f'    <Condition>Новое</Condition>')
-
-    lines.append(f'    <Title>{escape_xml(title)}</Title>')
-    lines.append(f'    <Description>{escape_xml(description)}</Description>')
-    lines.append(f'    <Price>{price}</Price>')
-
-    if images:
-        lines.append('    <Images>')
-        for img_url in images[:10]:
-            lines.append(f'      <Image url="{escape_xml(img_url)}"/>')
-        lines.append('    </Images>')
-
-    lines.append(f'    <Address>{escape_xml(address)}</Address>')
-    lines.append(f'    <ContactPhone>{escape_xml(phone)}</ContactPhone>')
-    lines.append(f'    <ManagerName>{escape_xml(manager_name)}</ManagerName>')
-    lines.append(f'    <AllowEmail>Да</AllowEmail>')
-    lines.append('  </Ad>')
-    return lines
-
-
 def generate_xml(products, phone, address, manager_name):
-    """Generate Avito Autoload XML for all product types"""
+    """Generate Avito Autoload XML — fabrics only (no valid category for accessories/yarn)"""
     lines = []
     lines.append('<?xml version="1.0" encoding="UTF-8"?>')
     lines.append('<Ads formatVersion="3" target="Avito.ru">')
@@ -434,31 +437,25 @@ def generate_xml(products, phone, address, manager_name):
             stats['skipped'] += 1
             continue
 
-        # Skip products without images
         if not p.get('images'):
             stats['skipped'] += 1
             continue
 
         product_type = classify_product(p)
 
-        if product_type == 'skip':
-            stats['skipped'] += 1
-            continue
-        elif product_type == 'fabric':
+        if product_type == 'fabric':
             ad_lines = generate_ad_fabric(p, phone, address, manager_name)
             stats['fabric'] += 1
+            lines.extend(ad_lines)
+            lines.append('')
         else:
-            ad_lines = generate_ad_accessory(p, phone, address, manager_name)
             stats[product_type] += 1
-
-        lines.extend(ad_lines)
-        lines.append('')
 
     lines.append('</Ads>')
 
-    print(f'Generated: {stats["fabric"]} fabrics, {stats["accessory"]} accessories, {stats["yarn"]} yarn')
+    print(f'Generated: {stats["fabric"]} fabric ads')
+    print(f'Excluded: {stats["accessory"]} accessories, {stats["yarn"]} yarn (no valid Avito XML category)')
     print(f'Skipped: {stats["skipped"]} (no title/price/images)')
-    print(f'Total ads: {stats["fabric"] + stats["accessory"] + stats["yarn"]}')
     return '\n'.join(lines)
 
 
